@@ -1,0 +1,129 @@
+[
+  {
+    "id": "zbij8e4070dp55kvnbgm",
+    "type": "HUM",
+    "structure": "Conjunction",
+    "num_span": 2,
+    "question": "who sang it's my party and i'll cry if i want to in the eighties",
+    "context": "In 1981 , a remake by British artists Dave Stewart and Barbara Gaskin was a UK number one hit single for four weeks and was also a major hit in Austria ( # 3 ) , Germany ( # 3 ) , the Netherlands ( # 20 ) , New Zealand ( # 1 ) , South Africa ( # 3 ) and Switzerland ( # 6 ) . The track reached # 72 in the US . This was the first version of the song to reach # 1 in the UK . The video for the Stewart / Gaskin version contained a cameo by Thomas Dolby as Johnny , Judy being played by Gaskin in a blond wig .",
+    "answers": [
+      [
+        "Dave Stewart",
+        [
+          38,
+          50
+        ]
+      ],
+      [
+        "Barbara Gaskin",
+        [
+          55,
+          69
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "m3fs8fu4ezhmhwi0ruvr",
+    "type": "ENTY",
+    "structure": "Complex",
+    "num_span": 3,
+    "question": "parts of the male reproductive system and its function",
+    "context": "The male reproductive system consists of a number of sex organs that play a role in the process of human reproduction . These organs are located on the outside of the body and within the pelvis . The main male sex organs are the penis and the testicles which produce semen and sperm , which , as part of sexual intercourse , fertilize an ovum in the female 's body ; the fertilized ovum ( zygote ) develops into a fetus , which is later born as an infant . The corresponding system in females is the female reproductive system .",
+    "answers": [
+      [
+        "penis",
+        [
+          229,
+          234
+        ]
+      ],
+      [
+        "testicles",
+        [
+          243,
+          252
+        ]
+      ],
+      [
+        "fertilize an ovum in the female 's body",
+        [
+          325,
+          364
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "l4y4xjl95egjp8xjc6tn",
+    "type": "ENTY",
+    "structure": "Conjunction",
+    "num_span": 2,
+    "question": "key events in the development of law relating to native title in australia",
+    "context": "In Australia , the common law doctrine of Aboriginal title is referred to as native title , which is `` the recognition by Australian law that Indigenous people have rights and interests to their land that come from their traditional laws and customs '' . The concept recognises that in certain cases there was and is a continued beneficial legal interest in land held by local Indigenous Australians which survived the acquisition of radical title to the land by the Crown at the time of sovereignty . Native title can co-exist with non-Indigenous proprietary rights and in some cases different Indigenous groups can exercise their native title over the same land . The foundational case for native title in Australia was Mabo v Queensland ( No 2 ) ( 1992 ) . One year after the recognition of the legal concept of native title in Mabo , the Keating Government formalised the recognition by legislation with the enactment by the Australian Parliament of the Native Title Act 1993 . The Act attempted to clarify the legal position of landholders and the processes to be followed for native title to be claimed , protected and recognised through the courts . The Federal Court of Australia mediates claims made by Aboriginal and Torres Strait Islander peoples and hears applications for , and makes , native title determinations . Appeals against these determinations can be made to a full sitting of the Federal Court and then to the High Court of Australia . The National Native Title Tribunal ( NNTT ) , established under the Native Title Act 1993 , is a body that applies the ' registration test ' to all new native title claimant applications , and undertakes future act mediation and arbitral functions .",
+    "answers": [
+      [
+        "Mabo v Queensland",
+        [
+          723,
+          740
+        ]
+      ],
+      [
+        "Australian Parliament of the Native Title Act 1993",
+        [
+          930,
+          980
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "5kfrke4zqabhi0ss5j57",
+    "type": "HUM",
+    "structure": "Redundant",
+    "num_span": 2,
+    "question": "who was in charge of building the golden gate bridge",
+    "context": "The Golden Gate Bridge and Highway District , authorized by an act of the California Legislature , was incorporated in 1928 as the official entity to design , construct , and finance the Golden Gate Bridge . However , after the Wall Street Crash of 1929 , the District was unable to raise the construction funds , so it lobbied for a $30 million bond measure . The bonds were approved in November 1930 , by votes in the counties affected by the bridge . The construction budget at the time of approval was $27 million . However , the District was unable to sell the bonds until 1932 , when Amadeo Giannini , the founder of San Francisco -- based Bank of America , agreed on behalf of his bank to buy the entire issue in order to help the local economy . Construction began on January 5 , 1933 . The project cost more than $35 million , ( $493 million in 2016 dollars ) completing ahead of schedule and $1.3 million under budget . The Golden Gate Bridge construction project was carried out by the McClintic - Marshall Construction Co. , a subsidiary of Bethlehem Steel Corporation founded by Howard H. McClintic and Charles D. Marshall , both of Lehigh University . Strauss remained head of the project , overseeing day - to - day construction and making some groundbreaking contributions . A graduate of the University of Cincinnati , he placed a brick from his alma mater 's demolished McMicken Hall in the south anchorage before the concrete was poured . He innovated the use of movable safety netting beneath the construction site , which saved the lives of many otherwise - unprotected ironworkers . Of eleven men killed from falls during construction , ten were killed on February 17 , 1937 , when the bridge was near completion when the net failed under the stress of a scaffold that had fallen . The workers ' platform that was attached to a rolling hanger on a track collapsed when the bolts that were connected to the track were too small and the amount of weight was too great to bear . The platform fell into the safety net , but was too heavy and the net gave way . Two out of the twelve workers survived the 200 - foot ( 61 m ) fall into the icy waters , including the 37 - year - old foreman , Slim Lambert . Nineteen others who were saved by the net over the course of construction became members of their Half Way to Hell Club .",
+    "answers": [
+      [
+        "McClintic - Marshall Construction Co.",
+        [
+          997,
+          1034
+        ]
+      ],
+      [
+        "Bethlehem Steel Corporation",
+        [
+          1053,
+          1080
+        ]
+      ]
+    ]
+  },
+  {
+    "id": "5koaaxkmts764sky7tdq",
+    "type": "NUM",
+    "structure": "Non-Redundant",
+    "num_span": 2,
+    "question": "when do you have the right to remain silent",
+    "context": "The Fifth Amendment to the United States Constitution provides that no person shall be compelled in any criminal case to be a witness against himself or herself . At trial , the prosecution can neither call the defendant as a witness , nor comment on the defendant 's failure to testify . Whether to testify or not is exclusively the privilege of the defendant . Outside the context of lawful detention or arrest , a person has no duty to answer any questions of the police . If judicial compulsion is sought by the State , the person can still invoke his or her Fifth Amendment right against compulsory self - incrimination , and refuse to testify if answers to questions posed are potentially self - incriminating . Only if granted immunity by the state , in a formal proceeding , from having any testimony or evidence derived from the testimony used against him or her , can a person be compelled to answer over an assertion of this right . If police detain ( or arrest ) a person , they must advise him or her that he or she has a right to remain silent , and the right to an attorney , among other rights . ( This is known as the Miranda warning . ) If the detained person invokes these rights , all interrogation must cease , and ordinarily nothing said by the defendant in violation of this rule may be admitted against him or her at trial . On June 17 , 2013 , the U.S. Supreme Court ruled in Salinas v. Texas that , prior to being arrested , an individual must specifically invoke the Fifth Amendment right to `` remain silent '' , otherwise silence can be used against him or her in court .",
+    "answers": [
+      [
+        "a person has no duty to answer any questions of the police",
+        [
+          415,
+          473
+        ]
+      ],
+      [
+        "if answers to questions posed are potentially self - incriminating",
+        [
+          649,
+          715
+        ]
+      ]
+    ]
+  }
+]
